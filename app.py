@@ -50,15 +50,3 @@ output = response["fare"]
 
 "This is your estimated price"
 st.write('Fare ', output)
-
-
-
-'''
-2. Let's build a dictionary containing the parameters for our API...
-
-3. Let's call our API using the `requests` package...
-
-4. Let's retrieve the prediction from the **JSON** returned by the API...
-
-## Finally, we can display the prediction to the user
-'''
